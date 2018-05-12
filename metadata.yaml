@@ -1,0 +1,33 @@
+_repo: A-Lover-in-HomespunAnd-Other-Stories_16860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, F. Clifford (Frank Clifford)
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '6977'
+    url: http://www.gutenberg.org/2009/agents/6977
+description: ''
+gutenberg_issued: '2005-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+tableOfContents: A Lover in Homespun — The Faith that Removes Mountains — A Pair of
+  Boots — A Prairie Episode — A Daughter of the Church — A Perilous Encounter — Le
+  Loup-Garou  — A Christmas Adventure — Narcisse's Friend — A Strange Presentiment
+  — A Memorable Dinner.
+title: 'A Lover in Homespun
+
+  And Other Stories'
+url: http://www.gutenberg.org/ebooks/16860
